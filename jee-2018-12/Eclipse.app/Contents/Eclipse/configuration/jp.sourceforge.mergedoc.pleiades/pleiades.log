@@ -1,0 +1,15 @@
+INFO  09:59:20.873 [main] (Pleiades) Pleiades キャッシュ保存パス: /Users/nagaoka.ryouhei/eclipse/jee-2018-12/Eclipse.app/Contents/Eclipse/configuration/jp.sourceforge.mergedoc.pleiades
+INFO  09:59:20.938 [main] (Pleiades) Eclipse AOP 起動トランスフォーマーを開始します。Pleiades 起動オプション:null
+INFO  09:59:21.093 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (前回): 2018-12-25 16:11:09
+INFO  09:59:21.094 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (今回): 2018-12-25 16:11:09
+INFO  09:59:21.124 [main] (PleiadesConfig) Pleiades 構成ファイルをロードしました。pleiades-config.xml
+INFO  09:59:21.363 [main] (LauncherEclipseTransformer) transform: org.eclipse.equinox.launcher.Main
+INFO  09:59:21.457 [main] (LauncherTransformer) アプリケーションの起動を開始しました。-clean:false
+INFO  09:59:21.458 [main] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを停止します。
+INFO  09:59:21.462 [main] (LauncherTransformer) Pleiades AOP 翻訳トランスフォーマーを開始します。
+INFO  09:59:21.468 [pool-1-thread-3] (LauncherEclipseTransformer) Eclipse バージョン [4.10]
+INFO  09:59:21.468 [pool-1-thread-3] (LauncherEclipseTransformer) バージョンに対応するスプラッシュ画像がありません。/Users/nagaoka.ryouhei/eclipse/jee-2018-12/Eclipse.app/Contents/Eclipse/plugins/jp.sourceforge.mergedoc.pleiades/conf/images/splash4.10.bmp
+INFO  09:59:21.469 [pool-1-thread-3] (LauncherEclipseTransformer) スプラッシュ・ロケーション: /Users/nagaoka.ryouhei/eclipse/jee-2018-12/Eclipse.app/Contents/Eclipse/plugins/jp.sourceforge.mergedoc.pleiades/conf/images/splash.bmp
+INFO  09:59:21.658 [pool-1-thread-2] (ExcludeClassNameCache) load   23989 エントリー exclude-class.list
+INFO  09:59:22.021 [pool-1-thread-2] (TransformedClassCache) load    1097 エントリー transformed-class.cache
+INFO  09:59:59.269 [main] (Analyses) Eclipse 始動完了 - 始動時間: 37.781 秒。-clean:false
